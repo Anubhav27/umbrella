@@ -1,0 +1,24 @@
+{
+  "name": "umbrella",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Anubhav27@github.com/Anubhav27/umbrella.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anubhav27/umbrella/issues"
+  },
+  "homepage": "https://github.com/Anubhav27/umbrella#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
